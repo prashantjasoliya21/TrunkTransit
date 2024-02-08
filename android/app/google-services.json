@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10670782643",
+    "project_id": "trunktransit",
+    "storage_bucket": "trunktransit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10670782643:android:1b054297cb25bb53b718c6",
+        "android_client_info": {
+          "package_name": "com.trunktransit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX7eSPwulI7w22osdcY1zr39XuCHXDerM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
