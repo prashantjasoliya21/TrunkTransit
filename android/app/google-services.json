@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77862893366",
+    "project_id": "trunktransit-90618",
+    "storage_bucket": "trunktransit-90618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77862893366:android:9a56c6ab3e8701770b2597",
+        "android_client_info": {
+          "package_name": "com.trunktransit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77862893366-qpcp23bglr2ta3hin42dl7ugndd518r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trunktransit",
+            "certificate_hash": "428b2d0baca8ba5d896f24624437603616743c48"
+          }
+        },
+        {
+          "client_id": "77862893366-nmftqj1ardk7rvun22hq35a6ccsb9rvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyTp5zriby-c0yzrbWoALd7R7pWD-Umw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77862893366-nmftqj1ardk7rvun22hq35a6ccsb9rvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
