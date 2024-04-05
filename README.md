@@ -36,7 +36,8 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 npm run android
 
 # OR using Yarn
-yarn android
+yarn android![WhatsApp Image 2024-04-02 at 07 47 16_31c902fe](https://github.com/prashantjasoliya21/TrunkTransit/assets/159404051/832d6e69-1ed3-4443-928d-9c71d41ee746)
+
 ```
 
 ### For iOS
