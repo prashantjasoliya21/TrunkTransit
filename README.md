@@ -4,7 +4,6 @@ Version 0.2
 The,Car, Trunk Rental Mobile App is a novel platform designed to connect individuals who have available,car trunk space with those in need of transporting goods and stuffs. This app aims to maximize the use of trunk space in private vehicles, providing an econnomical and efficient,transportation solution for smaller goods.
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 ![Group 6870](https://github.com/prashantjasoliya21/TrunkTransit/assets/159404051/114af7bf-df2f-46e8-85ef-c16a2c7fdbb9)
-![WhatsApp Image 2024-04-02 at 07 47 16_31c902fe](https://github.com/prashantjasoliya21/TrunkTransit/assets/159404051/557cbd3a-cf54-409a-af3f-79a1377004b0)
 ![WhatsApp Image 2024-04-02 at 07 47 15_c39d62d4](https://github.com/prashantjasoliya21/TrunkTransit/assets/159404051/24eae88f-1e12-4135-933e-f7a681f19d86)
 
 # Getting Started
